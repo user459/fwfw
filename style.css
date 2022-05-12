@@ -1,0 +1,23 @@
+body{
+    background-image: url("Untitled%20design%20(6).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: white;
+  color:black
+}
+h1{
+    font-style: italic;
+}
+h4{
+    color: crimson;
+    font-style: oblique;
+}
+#camera{
+border: 2px solid black;
+    width: 400px;
+    height: 350px;
+}
